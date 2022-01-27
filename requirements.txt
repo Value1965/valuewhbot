@@ -1,5 +1,4 @@
 python-telegram-bot   ==    13.10
-logging
 fastapi
 uvicorn
 
